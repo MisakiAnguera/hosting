@@ -1,5 +1,5 @@
 let myButton = document.querySelector('button');
-let myHeading = document.querySelector('h1');
+let myHeading = document.querySelector('h3');
 
 function setUserName() {
   let myName = prompt('Antes de ser bienvenido al Misakismo, rellena el campo con tus últimas palabras como pagano.');
