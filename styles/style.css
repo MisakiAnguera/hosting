@@ -1,1 +1,28 @@
-
+html {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+body {
+  background-color: #ecc3ef;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#div-1 {
+  background-color: rgb(201, 255, 221);
+}
+.Ella-no-te-ama {
+  color: rgb(193, 0, 178);
+  font-family: fantasy;
+}
+.siesta {
+  font-family: sans-serif;
+  font-size: 13px;
+}
+.que-romantico {
+  font-style: italic;
+}
+.jd {
+  background-color: rgb(34,0,97);
+  color: rgb(191, 225, 128);
+  font-family: monospace;
+}
