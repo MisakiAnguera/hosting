@@ -2,7 +2,7 @@ let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h1');
 
 function setUserName() {
-  let myName = prompt('Rellena el campo con tus últimas palabras como pagano.');
+  let myName = prompt('Antes de ser bienvenido al Misakismo, rellena el campo con tus últimas palabras como pagano.');
   if(!myName || myName === null) {
     setUserName();
   } else {
