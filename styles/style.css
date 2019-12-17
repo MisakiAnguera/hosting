@@ -1,15 +1,25 @@
 html {
   font-family: 'Open Sans Condensed', sans-serif;
-  background-color: rgb(34,200,160);
+  background-color: rgb(193,0,178);
 }
 body {
   background-color: #ecc3ef;
   width: 500px;
-  margin-left: auto;
-  margin-right: auto;
 }
 #div-1 {
   background-color: rgb(201, 255, 221);
+  margin-left: auto;
+  margin-right: auto;
+}
+#div-2 {
+  background-color: rgb(34,34,180);
+  width: 800px;
+  margin-left: 300px;
+}
+#div-3 {
+  background-color: rgb(190,90,45);
+  width: 300px;
+  margin-left:30%;
 }
 .Ella-no-te-ama {
   color: rgb(193, 0, 178);
