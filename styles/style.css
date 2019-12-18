@@ -5,11 +5,11 @@ html {
 body {
   background-color: #ecc3ef;
   width: 500px;
+  margin-left: auto;
+  margin-right: auto;
 }
 #div-1 {
   background-color: rgb(201, 255, 221);
-  margin-left: auto;
-  margin-right: auto;
 }
 .Ella-no-te-ama {
   color: rgb(193, 0, 178);
