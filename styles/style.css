@@ -1,29 +1,74 @@
 html {
-  font-family: 'Open Sans Condensed', sans-serif;
-  background-color: rgb(234,158,220);
+  font-size: 10px;
+  font-family: 'Girassol', cursive;
+  color: rgb(255,255,255);
 }
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+
+html {
+  background-color: rgb(237, 197, 237);
+}
+
 body {
-  background-color: #ecc3ef;
-  width: 500px;
+  width: 800px;
+  margin: 0 auto;
+  background-color: rgb(100, 28, 75);
+  padding: 0 20px 20px 20px;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 1px black;
+  color: rgb(237, 197, 237);
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 700px;
   margin-left: auto;
   margin-right: auto;
 }
-#div-1 {
-  background-color: rgb(201, 255, 221);
+
+h2 {
+  font-size: 45px;
 }
-.Ella-no-te-ama {
-  color: rgb(193, 0, 178);
-  font-family: fantasy;
+
+#table-1 {
+  font-size: 25px;
 }
-.siesta {
-  font-family: sans-serif;
-  font-size: 13px;
+
+h3 {
+  font-size: 35px;
 }
-.que-romantico {
-  font-style: italic;
+
+#cat {
+  position: absolute;
+  left: 0px;
+  font-size: 20px;
+  top: 2100px;
 }
-.jd {
-  background-color: rgb(34,0,97);
-  color: rgb(191, 225, 128);
-  font-family: monospace;
+
+#referencias {
+  background-color: rgb(237, 197, 237);
+  text-align: center;
+  color: rgb(100, 28, 75);
+}
+
+#referencias-2 {
+  background-color: rgb(237, 197, 237);
+  text-align: center;  
+  color: rgb(100, 28, 75);
 }
