@@ -4,14 +4,6 @@ html {
   color: rgb(255,255,255);
 }
 
-#pedro-te-quiero {
-  background-color: rgb(237, 197, 237);
-  text-align: center;  
-  color: rgb(100, 28, 75);
-  border: 1px;
-  font-family: sans-serif;
-}
-
 h1 {
   font-size: 60px;
   text-align: center;
@@ -79,4 +71,12 @@ h3 {
   background-color: rgb(237, 197, 237);
   text-align: center;  
   color: rgb(100, 28, 75);
+}
+
+#pedro-te-quiero {
+  background-color: rgb(237, 197, 237);
+  text-align: center;  
+  color: rgb(100, 28, 75);
+  border: 1px;
+  font-family: sans-serif;
 }
