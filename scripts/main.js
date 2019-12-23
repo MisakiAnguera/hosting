@@ -19,7 +19,7 @@ let myHeading = document.querySelector('h1');
 function setUserName() {
   let myName = prompt('Inserta tu apodo. El que más te guste. ;-)');
   if(!myName || myName === null) {
-    setUserName();
+    
   } else {
     localStorage.setItem('name', myName);
     myHeading.innerHTML = 'Bienvenido a MiVä´s World, ' + myName + '. ¡Disfruta!';
