@@ -2,6 +2,6 @@ En teoría, esto era una tarea escolar de la asignatura de TIC de 2º de bachill
 
 En este archivo llamado README.md debía estar el enlace a la web creada junto con una explicación de la tarea. El enlace es el siguiente: https://misakianguera.github.io/hosting/
 
-La estructura del repositorio tenía que ser la siguiente: carpetas images, styles y scripts, y archivos README.md, LICENSE e index.html. Además, tenían que estar los recursos JS de intercambio de imágenes al hacer clic sobre ellas, de campo de texto (que cambie algún texto de la web al introducirlo el usuario) y de objeto de movimiento. También había que incorporar una fuente llamativa o distinta. La licencia debía ser de recurso no-software (CC). La página web tendría una imagen aparte de las dos de los recursos JS.
+La estructura del repositorio tenía que ser la siguiente: carpetas images, styles y scripts, y archivos README.md, LICENSE e index.html. Además, tenían que estar los recursos JS de intercambio de imágenes al hacer clic sobre ellas, de campo de texto (que cambie algún texto de la web al introducirlo el usuario) y de objeto de movimiento. También había que incorporar una fuente llamativa o distinta. La licencia debía ser de recurso no-software (CC). La página web tendría una imagen aparte de las dos de los recursos JS. Además tenía que tener un enlace a cualquier sitio, que abriera en ventana nueva y tuviera título de accesibilidad.
 
-LA PÁGINA WEB TIENE QUE TENER ESTÉTICA SIMILAR A ALGUNA DE LAS RECOMENDADAS INDICÁNDOLO AQUÍ.
+Gracias a github.com/palmenros por ayudarme y corregirme cosas que no eran necesarias (quiero decir, no eran parte de la tarea). <3 También intentó explicarme cosas pero yo no me entero de nada, así que la señora sigue sin tener ni idea de la vida.
