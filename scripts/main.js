@@ -46,7 +46,6 @@ var walkTheCat = function(){
     var newLeft = ((currTime - startTime) / 1000) * 100;
     var newTop = 0//((currTime - startTime) / 1000) * 100;
     if (newLeft > 850){ startTime = currTime};
-    console.log(newLeft);
     catEl.style.left = newLeft + "px";
     catEl.style.top = newTop + "px";
     window.requestAnimationFrame(walkTheCat);
